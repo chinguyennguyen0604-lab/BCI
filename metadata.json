@@ -1,0 +1,8 @@
+{
+  "name": "NeuroType",
+  "description": "Hệ thống hỗ trợ giao tiếp lai ghép EOG + EEG phụ trợ điều khiển dành cho người khuyết tật vận động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
